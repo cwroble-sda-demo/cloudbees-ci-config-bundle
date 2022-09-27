@@ -1,5 +1,6 @@
 jenkins:
   systemMessage: 'Jenkins configured using CloudBees CI CasC - v1'
+  numExecutors: 5
 unclassified:
   hibernationConfiguration:
     activities:
